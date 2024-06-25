@@ -10,10 +10,10 @@ This python script help you to get unlimited everything including gun skins and 
 Open Termux app and execute following command
 ```bash
 pkg update
-pkg install git python
+pkg install git python tsu
 git clone https://github.com/BiswajitThakur/hack-dt.git
 cd hack-dt
-python3 main.py
+sudo python3 main.py
 ```
 
 [![Watch the video](test-data/Screenshot.png)](test-data/Screencast.webm)
